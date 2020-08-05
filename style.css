@@ -31,14 +31,16 @@ table{
 .k1 {
   width:200px;
   heigth:auto;
+  border-radius: 10px;
 }
 .img img {
   padding:20px;
-  width:400px;
+  width:450px;
   height: auto;
 }
 .img {
   text-align: center;
+
 }
 @media only screen and (min-width: 700px) {
   .container{
