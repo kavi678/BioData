@@ -1,0 +1,42 @@
+body{
+  background: #DCE4E1;
+
+}
+
+.container{
+  border-radius: 5px;
+  padding:20px;
+  width:600px;
+  height: auto;
+  margin:auto;
+  background: #008080;
+  color: #fff;
+  font-size:16px;
+  font-family: sans-serif;
+
+}
+.data{
+
+}
+.extra{
+  width:600px;
+  height:1000px;
+  margin:auto;
+  background-color: #F1F9F8;
+}
+table{
+  margin:auto;
+}
+.k1 {
+  width:250px;
+  heigth:auto;
+}
+@media only screen and (min-width: 700px) {
+  .container{
+    width: 800px;
+  }
+  .extra{
+    width:800px;
+    padding:0;
+  }
+}
